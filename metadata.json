@@ -1,0 +1,6 @@
+{
+  "name": "GSRelation",
+  "description": "GSRelation is India's premier Public Relations and Strategic Communications consultancy specializing in media relations, narrative engineering, reputation management, and high-impact editorial storytelling across New Delhi, Mumbai, Bengaluru, and Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
